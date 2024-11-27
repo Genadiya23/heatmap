@@ -1,0 +1,3774 @@
+[
+    {
+      "date": "2023-01-01",
+      "meals": {
+        "Breakfast": 890,
+        "Lunch": 0,
+        "Dinner": 1230,
+        "Snack": 128
+      },
+      "total": 2248
+    },
+      {
+        "date": "2023-01-02",
+        "meals": {
+          "Breakfast": 365,
+          "Lunch": 540,
+          "Dinner": 620,
+          "Snack": 145
+        },
+        "total": 1000,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-03",
+        "meals": {
+          "Breakfast": 405,
+          "Lunch": 590,
+          "Dinner": 520,
+          "Snack": 135
+        },
+        "total": 1650,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-04",
+        "meals": {
+          "Breakfast": 340,
+          "Lunch": 630,
+          "Dinner": 500,
+          "Snack": 180
+        },
+        "total": 1650,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-05",
+        "meals": {
+          "Breakfast": 380,
+          "Lunch": 475,
+          "Dinner": 530,
+          "Snack": 170
+        },
+        "total": 1555,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-06",
+        "meals": {
+          "Breakfast": 375,
+          "Lunch": 500,
+          "Dinner": 590,
+          "Snack": 130
+        },
+        "total": 1595,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-07",
+        "meals": {
+          "Breakfast": 420,
+          "Lunch": 610,
+          "Dinner": 485,
+          "Snack": 155
+        },
+        "total": 1670,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-08",
+        "meals": {
+          "Breakfast": 390,
+          "Lunch": 575,
+          "Dinner": 495,
+          "Snack": 180
+        },
+        "total": 1640,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-09",
+        "meals": {
+          "Breakfast": 355,
+          "Lunch": 600,
+          "Dinner": 490,
+          "Snack": 185
+        },
+        "total": 1630,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-10",
+        "meals": {
+          "Breakfast": 350,
+          "Lunch": 570,
+          "Dinner": 510,
+          "Snack": 145
+        },
+        "total": 1575,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-11",
+        "meals": {
+          "Breakfast": 365,
+          "Lunch": 555,
+          "Dinner": 530,
+          "Snack": 155
+        },
+        "total": 1605,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-12",
+        "meals": {
+          "Breakfast": 385,
+          "Lunch": 540,
+          "Dinner": 510,
+          "Snack": 170
+        },
+        "total": 1605,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-13",
+        "meals": {
+          "Breakfast": 395,
+          "Lunch": 530,
+          "Dinner": 520,
+          "Snack": 160
+        },
+        "total": 1605,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-14",
+        "meals": {
+          "Breakfast": 380,
+          "Lunch": 560,
+          "Dinner": 515,
+          "Snack": 145
+        },
+        "total": 1600,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-15",
+        "meals": {
+          "Breakfast": 395,
+          "Lunch": 545,
+          "Dinner": 510,
+          "Snack": 155
+        },
+        "total": 1605,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-16",
+        "meals": {
+          "Breakfast": 410,
+          "Lunch": 530,
+          "Dinner": 520,
+          "Snack": 155
+        },
+        "total": 1615,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-17",
+        "meals": {
+          "Breakfast": 375,
+          "Lunch": 560,
+          "Dinner": 510,
+          "Snack": 155
+        },
+        "total": 1600,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-18",
+        "meals": {
+          "Breakfast": 385,
+          "Lunch": 555,
+          "Dinner": 520,
+          "Snack": 170
+        },
+        "total": 1630,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-19",
+        "meals": {
+          "Breakfast": 360,
+          "Lunch": 570,
+          "Dinner": 530,
+          "Snack": 150
+        },
+        "total": 1610,
+        "Highest Calories": "Dinner"
+      },
+      {
+        "date": "2023-01-20",
+        "meals": {
+          "Breakfast": 370,
+          "Lunch": 590,
+          "Dinner": 520,
+          "Snack": 160
+        },
+        "total": 1640,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-21",
+        "meals": {
+          "Breakfast": 380,
+          "Lunch": 600,
+          "Dinner": 510,
+          "Snack": 140
+        },
+        "total": 1630,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-22",
+        "meals": {
+          "Breakfast": 385,
+          "Lunch": 580,
+          "Dinner": 530,
+          "Snack": 145
+        },
+        "total": 1640,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-23",
+        "meals": {
+          "Breakfast": 390,
+          "Lunch": 570,
+          "Dinner": 520,
+          "Snack": 150
+        },
+        "total": 1630,
+        "Highest Calories": "Breakfast"
+      },
+      {
+        "date": "2023-01-24",
+        "meals": {
+          "Breakfast": 375,
+          "Lunch": 560,
+          "Dinner": 515,
+          "Snack": 145
+        },
+        "total": 1595,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-25",
+        "meals": {
+          "Breakfast": 360,
+          "Lunch": 590,
+          "Dinner": 530,
+          "Snack": 160
+        },
+        "total": 1640,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-26",
+        "meals": {
+          "Breakfast": 380,
+          "Lunch": 580,
+          "Dinner": 520,
+          "Snack": 155
+        },
+        "total": 1635,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-27",
+        "meals": {
+          "Breakfast": 370,
+          "Lunch": 600,
+          "Dinner": 510,
+          "Snack": 145
+        },
+        "total": 1625,
+        "Highest Calories": "Lunch"
+      },
+      {
+        "date": "2023-01-28",
+        "meals": {
+          "Breakfast": 390,
+          "Lunch": 590,
+          "Dinner": 515,
+          "Snack": 150
+        },
+        "total": 1645,
+        "Highest Calories": "Lunch"
+      },
+    
+        {
+          "date": "2023-01-29",
+          "meals": {
+            "Breakfast": 395,
+            "Lunch": 570,
+            "Dinner": 520,
+            "Snack": 155
+          },
+          "total": 1640,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-01-30",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 585,
+            "Dinner": 510,
+            "Snack": 150
+          },
+          "total": 1625,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-01-31",
+          "meals": {
+            "Breakfast": 370,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 160
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-01",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 550,
+            "Dinner": 520,
+            "Snack": 145
+          },
+          "total": 1600,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-02",
+          "meals": {
+            "Breakfast": 395,
+            "Lunch": 560,
+            "Dinner": 510,
+            "Snack": 150
+          },
+          "total": 1615,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-03",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 585,
+            "Dinner": 505,
+            "Snack": 160
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-04",
+          "meals": {
+            "Breakfast": 375,
+            "Lunch": 570,
+            "Dinner": 520,
+            "Snack": 160
+          },
+          "total": 1625,
+          "Highest Calories": "Dinner"
+        },
+        {
+          "date": "2023-02-05",
+          "meals": {
+            "Breakfast": 390,
+            "Lunch": 550,
+            "Dinner": 510,
+            "Snack": 155
+          },
+          "total": 1605,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-06",
+          "meals": {
+            "Breakfast": 365,
+            "Lunch": 585,
+            "Dinner": 520,
+            "Snack": 155
+          },
+          "total": 1625,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-07",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 150
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-08",
+          "meals": {
+            "Breakfast": 395,
+            "Lunch": 570,
+            "Dinner": 515,
+            "Snack": 160
+          },
+          "total": 1640,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-09",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 155
+          },
+          "total": 1635,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-10",
+          "meals": {
+            "Breakfast": 390,
+            "Lunch": 560,
+            "Dinner": 520,
+            "Snack": 150
+          },
+          "total": 1620,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-11",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 580,
+            "Dinner": 510,
+            "Snack": 155
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-12",
+          "meals": {
+            "Breakfast": 370,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 160
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-13",
+          "meals": {
+            "Breakfast": 375,
+            "Lunch": 585,
+            "Dinner": 510,
+            "Snack": 150
+          },
+          "total": 1620,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-14",
+          "meals": {
+            "Breakfast": 390,
+            "Lunch": 570,
+            "Dinner": 520,
+            "Snack": 160
+          },
+          "total": 1640,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-15",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 600,
+            "Dinner": 510,
+            "Snack": 145
+          },
+          "total": 1640,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-16",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 590,
+            "Dinner": 520,
+            "Snack": 155
+          },
+          "total": 1645,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-17",
+          "meals": {
+            "Breakfast": 375,
+            "Lunch": 570,
+            "Dinner": 530,
+            "Snack": 160
+          },
+          "total": 1635,
+          "Highest Calories": "Dinner"
+        },
+        {
+          "date": "2023-02-18",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 580,
+            "Dinner": 515,
+            "Snack": 150
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-19",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 155
+          },
+          "total": 1635,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-20",
+          "meals": {
+            "Breakfast": 375,
+            "Lunch": 600,
+            "Dinner": 510,
+            "Snack": 145
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-21",
+          "meals": {
+            "Breakfast": 395,
+            "Lunch": 580,
+            "Dinner": 520,
+            "Snack": 150
+          },
+          "total": 1645,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-22",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 590,
+            "Dinner": 510,
+            "Snack": 155
+          },
+          "total": 1640,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-23",
+          "meals": {
+            "Breakfast": 370,
+            "Lunch": 600,
+            "Dinner": 510,
+            "Snack": 145
+          },
+          "total": 1625,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-24",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 570,
+            "Dinner": 530,
+            "Snack": 160
+          },
+          "total": 1640,
+          "Highest Calories": "Dinner"
+        },
+        {
+          "date": "2023-02-25",
+          "meals": {
+            "Breakfast": 390,
+            "Lunch": 560,
+            "Dinner": 520,
+            "Snack": 150
+          },
+          "total": 1620,
+          "Highest Calories": "Breakfast"
+        },
+        {
+          "date": "2023-02-26",
+          "meals": {
+            "Breakfast": 375,
+            "Lunch": 585,
+            "Dinner": 510,
+            "Snack": 160
+          },
+          "total": 1630,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-27",
+          "meals": {
+            "Breakfast": 380,
+            "Lunch": 590,
+            "Dinner": 515,
+            "Snack": 155
+          },
+          "total": 1640,
+          "Highest Calories": "Lunch"
+        },
+        {
+          "date": "2023-02-28",
+          "meals": {
+            "Breakfast": 385,
+            "Lunch": 570,
+            "Dinner": 510,
+            "Snack": 160
+          },
+          "total": 1625,
+          "Highest Calories": "Breakfast"
+        },
+
+          {
+            "date": "2023-03-01",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 580,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-02",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 155
+            },
+            "total": 1630,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-03",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 145
+            },
+            "total": 1630,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-04",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-05",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 580,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1630,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-06",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-07",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 530,
+              "Snack": 145
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-08",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-09",
+            "meals": {
+              "Breakfast": 395,
+              "Lunch": 570,
+              "Dinner": 515,
+              "Snack": 150
+            },
+            "total": 1630,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-10",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-11",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 155
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-12",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 580,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-13",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-14",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-15",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 580,
+              "Dinner": 515,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-16",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 570,
+              "Dinner": 530,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-17",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-18",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1630,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-19",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-20",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 520,
+              "Snack": 155
+            },
+            "total": 1635,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-21",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 600,
+              "Dinner": 515,
+              "Snack": 160
+            },
+            "total": 1655,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-22",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 580,
+              "Dinner": 530,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-23",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 520,
+              "Snack": 155
+            },
+            "total": 1635,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-24",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 590,
+              "Dinner": 515,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-25",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-03-26",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-27",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-28",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 570,
+              "Dinner": 530,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-29",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 590,
+              "Dinner": 515,
+              "Snack": 155
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-03-30",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-03-31",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-01",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-02",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-03",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-04",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-05",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-06",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 515,
+              "Snack": 155
+            },
+            "total": 1635,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-07",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 590,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-08",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 580,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-09",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 525,
+              "Snack": 155
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-10",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-11",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-12",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 150
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-13",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 570,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-14",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 515,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-15",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1630,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-16",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-17",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 155
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-18",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 150
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-19",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-20",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 515,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-21",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 600,
+              "Dinner": 520,
+              "Snack": 150
+            },
+            "total": 1650,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-22",
+            "meals": {
+              "Breakfast": 385,
+              "Lunch": 570,
+              "Dinner": 530,
+              "Snack": 155
+            },
+            "total": 1645,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-23",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-24",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-25",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Breakfast"
+          },
+          {
+            "date": "2023-04-26",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-27",
+            "meals": {
+              "Breakfast": 380,
+              "Lunch": 580,
+              "Dinner": 520,
+              "Snack": 160
+            },
+            "total": 1640,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-28",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 590,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1635,
+            "Highest Calories": "Lunch"
+          },
+          {
+            "date": "2023-04-29",
+            "meals": {
+              "Breakfast": 390,
+              "Lunch": 570,
+              "Dinner": 525,
+              "Snack": 150
+            },
+            "total": 1635,
+            "Highest Calories": "Dinner"
+          },
+          {
+            "date": "2023-04-30",
+            "meals": {
+              "Breakfast": 375,
+              "Lunch": 600,
+              "Dinner": 510,
+              "Snack": 160
+            },
+            "total": 1645,
+            "Highest Calories": "Lunch"
+          },      
+    {
+      "date": "2023-05-01",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 3,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-05-02",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-03",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-04",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-05",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-05-06",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-07",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-08",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-09",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-10",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-11",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-12",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-05-13",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-14",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-15",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-16",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-17",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-18",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-19",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-05-20",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-21",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 3,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-23",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-24",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-05-25",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-26",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-27",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-05-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 3
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-05-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-05-30",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-05-31",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-06-01",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-02",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-06-03",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-04",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-05",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-06",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-07",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-08",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-06-10",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 3
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-11",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-12",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-06-13",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-14",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-15",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-16",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-17",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-18",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-19",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-20",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-21",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-06-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 3
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-23",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-24",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-25",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-26",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-27",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-06-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-06-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 3
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-06-30",
+      "meals": {
+        "Breakfast": 3,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-07-01",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-02",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-03",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-07-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-05",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-06",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-07",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-07-08",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-10",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-11",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-12",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-13",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-14",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-15",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-07-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-17",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-18",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-19",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-20",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-21",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-22",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-23",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-24",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-07-25",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-07-26",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-27",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-07-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-07-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-07-30",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-07-31",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-01",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-08-02",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-03",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-05",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 3,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-08-06",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-07",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-08",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-10",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-08-11",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-12",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-13",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-14",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-15",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-17",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-08-18",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-19",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-20",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-21",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-08-23",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-24",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-25",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-26",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-08-27",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-08-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 3,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-08-29",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-30",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-08-31",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-01",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-02",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-03",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-05",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-06",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-07",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-08",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-09",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-10",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-11",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-12",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-13",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-14",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-15",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-17",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-18",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-09-19",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 3,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-20",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-21",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-23",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-24",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-09-25",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-26",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-09-27",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-09-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-09-30",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-01",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-02",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-03",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-05",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-10-06",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-07",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-08",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-10",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-11",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-12",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-13",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-14",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-15",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-17",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-18",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-19",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-20",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-21",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-23",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-10-24",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-25",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-10-26",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-27",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-10-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-10-30",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-10-31",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-01",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-02",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-11-03",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-11-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-05",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-06",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-07",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-08",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-11-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-10",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-11-11",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-11-12",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-13",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-14",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-15",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-11-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-17",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-11-18",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-19",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-20",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-11-21",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-22",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-11-23",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-24",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-11-25",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-26",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-27",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-11-28",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-11-29",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-11-30",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-01",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-02",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-03",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-04",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-12-05",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-06",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-07",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-12-08",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-09",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-12-10",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-11",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-12",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-13",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-14",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-12-15",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-16",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-17",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-12-18",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 3,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-19",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-20",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-21",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-22",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 1
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-23",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 2,
+        "Snack": 0
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-24",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 2
+      },
+      "total": 4
+    },
+    {
+      "date": "2023-12-25",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-26",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-27",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 2,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 2
+    },
+    {
+      "date": "2023-12-28",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 0
+    },
+    {
+      "date": "2023-12-29",
+      "meals": {
+        "Breakfast": 0,
+        "Lunch": 0,
+        "Dinner": 1,
+        "Snack": 0
+      },
+      "total": 1
+    },
+    {
+      "date": "2023-12-30",
+      "meals": {
+        "Breakfast": 2,
+        "Lunch": 1,
+        "Dinner": 0,
+        "Snack": 0
+      },
+      "total": 3
+    },
+    {
+      "date": "2023-12-31",
+      "meals": {
+        "Breakfast": 1,
+        "Lunch": 1,
+        "Dinner": 1,
+        "Snack": 1
+      },
+      "total": 4
+    }
+  ]
+
