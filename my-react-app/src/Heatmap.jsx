@@ -1,17 +1,19 @@
-import React, { useEffect, useState } from "react";
 import myCalories from "./calories.json";
 import './App.css';
+import React, { useEffect, useState } from "react";
+
 
 const Heatmap = () => {
   const [monthlyData, setMonthlyData] = useState({});
   const [hoveredTotal, setHoveredTotal] = useState(null);
 
   const getColorForValue = (value) => {
-    const colors = [
-        "#fff394","#ffea76", "#ffdc2e", "#ffb617", "#ff9400"  
-    ];
-    
-    return colors[Math.min(value, colors.length - 1)];
+    if (value <= 1300) return "#fff394"; 
+    if (value <= 1400) return "#ffea76"; 
+    if (value <= 1500) return "#ffdc2e";
+    if (value <= 1600) return "#ffb617";
+    if (value <= 1700) return "#ff9400"; 
+    return "#ff6700"; 
   };
 
   useEffect(() => {
@@ -33,6 +35,8 @@ const Heatmap = () => {
         date: entry.date,
         meals: entry.meals,
         total: Object.values(entry.meals).reduce((sum, value) => sum + value, 0),
+        mostCaloricMeal: Object.entries(entry.meals).reduce((max, [meal, calories]) =>
+          calories > max.calories ? { meal, calories } : max, { meal: '', calories: 0 }),
       });
       return acc;
     }, {});
@@ -57,16 +61,19 @@ const Heatmap = () => {
                   {entries.map((row, rowIndex) => (
                     <div
                       key={rowIndex}
-                      className="tea-box"
+                      className="calories-box"
                       style={{
                         backgroundColor: getColorForValue(row.total),
                         opacity: hoveredTotal === null || hoveredTotal === row.total ? 1 : 0.3,
                       }}
                       onMouseEnter={() => setHoveredTotal(row.total)}
                       onMouseLeave={() => setHoveredTotal(null)} 
-                      tooltip={`Date: ${row.date}\n${Object.entries(row.meals)
-                        .map(([teaName, teaValue]) => `${teaName}: ${teaValue}`)
-                        .join('\n')}`}
+                      tooltip={`${new Date(row.date).toLocaleDateString("en-US", {
+                        month: "long",
+                        day: "numeric",
+                        year: "numeric",
+                      })}\nTotal calories: ${row.total}\nThe most caloric meal: ${row.mostCaloricMeal.meal} (${row.mostCaloricMeal.calories} cal)`}
+
                     ></div>
                   ))}
                 </div>
